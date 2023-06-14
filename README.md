@@ -1,16 +1,36 @@
-### Hi there 👋
+## ![Who](https://img.shields.io/badge/关于我-我是啥-red?style=for-the-badge&logo=about.me)
+![NickName](https://img.shields.io/badge/NickName-小康2022-blue)
+![RealName](https://img.shields.io/badge/RealName-Null%20(●'◡'●)-orange)
+![Age](https://img.shields.io/badge/Age-19-green)
+![Sex](https://img.shields.io/badge/Sex-♂-yellow)
 
-<!--
-**Xiaokang2022/Xiaokang2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ![Learn](https://img.shields.io/badge/我的能力-我学了啥-blue?style=for-the-badge&logo=star)
+![Python](https://img.shields.io/badge/Python-烂熟于心-orange?style=flat&logo=python)  
+![Markdown](https://img.shields.io/badge/Markdown-炉火纯青-purple?logo=markdown)  
+![C/C++](https://img.shields.io/badge/C&C++-熟练掌握-blue?logo=c)  
+![Java](https://img.shields.io/badge/Java-渐入佳境-green?logo=oracle)  
+![Linux](https://img.shields.io/badge/Linux-初窥门径-white?logo=linux)  
+![Minecraft](https://img.shields.io/badge/Minecraft-略知一二-grey?logo=minecraft)  
 
-Here are some ideas to get you started:
+## ![Done](https://img.shields.io/badge/我的实战-我干了啥-green?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-Xiaokang2022-purple?logo=github)](https://github.com/Xiaokang2022)
+![Repositories](https://img.shields.io/badge/Repositories-1-blue)
+![Stars](https://img.shields.io/badge/Stars-2-yellow)
+![Forks](https://img.shields.io/badge/Forks-0-green)  
+[![GitCode](https://img.shields.io/badge/GitCode-小康2022-red)](https://gitcode.net/weixin_62651706)
+![Repositories](https://img.shields.io/badge/Repositories-12-blue)
+![Stars](https://img.shields.io/badge/Stars-13-yellow)
+![Forks](https://img.shields.io/badge/Forks-1-green)  
+![pypi](https://img.shields.io/badge/PyPi-XiaoKang2022-blue?logo=pypi)
+![Projects](https://img.shields.io/badge/Projects-1-blue)
+![Commits](https://img.shields.io/badge/Commits-100+-yellow)
+![Downloads](https://img.shields.io/badge/Downloads-4k-green)  
+![CSDN](https://img.shields.io/badge/CSDN-小康2022-red)
+![Rank](https://img.shields.io/badge/Rank-13k-blue)
+![Fans](https://img.shields.io/badge/Fans-4k-yellow)
+![Reading](https://img.shields.io/badge/Reading-189k-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ![Contact](https://img.shields.io/badge/联系我-咋找我-white?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-2951256653@qq.com-blue?style=social)](mailto:2951256653@qq.com)
+[![CSDN](https://img.shields.io/badge/CSDN-小康2022-red?style=social)](https://xiaokang2022.blog.csdn.net)
+![QQ](https://img.shields.io/badge/QQ-2951256653-green?style=social)
