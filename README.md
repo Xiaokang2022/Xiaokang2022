@@ -21,7 +21,7 @@
 [![pypi](https://img.shields.io/badge/PyPi-XiaoKang2022-purple?logo=pypi)](https://pypi.org/user/XiaoKang2022)
 ![Projects](https://img.shields.io/badge/Projects-1-blue)
 ![Commits](https://img.shields.io/badge/Commits-100+-green)
-![Downloads](https://img.shields.io/badge/Downloads-4k-yellow)  
+![Downloads](https://img.shields.io/badge/Downloads-6k-yellow)  
 [![GitCode](https://img.shields.io/badge/GitCode-小康2022-purple)](https://gitcode.net/weixin_62651706)
 ![Repositories](https://img.shields.io/badge/Repositories-12-blue)
 ![Stars](https://img.shields.io/badge/Stars-13-green)
@@ -29,7 +29,7 @@
 [![CSDN](https://img.shields.io/badge/CSDN-小康2022-purple)](https://xiaokang2022.blog.csdn.net)
 ![Rank](https://img.shields.io/badge/Rank-13k-blue)
 ![Fans](https://img.shields.io/badge/Fans-4k-green)
-![Reading](https://img.shields.io/badge/Reading-189k-yellow)
+![Reading](https://img.shields.io/badge/Reading-191k-yellow)
 
 ![Contact](https://img.shields.io/badge/联系方式-咋找我-white?style=for-the-badge&logo=about.me)  
 [![Email](https://img.shields.io/badge/Email-2951256653@qq.com-blue?style=social)](mailto:2951256653@qq.com)
