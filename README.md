@@ -1,3 +1,8 @@
+![](https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&layout=compact&hide_border=false&theme=transparent&show_icons=true)
+
+---
+
 ![Who](https://img.shields.io/badge/我的信息-我是啥-white?style=for-the-badge&logo=about.me)  
 ![NickName](https://img.shields.io/badge/NickName-小康2022-orange)
 ![RealName](https://img.shields.io/badge/RealName-Null%20(●'◡'●)-purple)
