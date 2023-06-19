@@ -40,3 +40,5 @@
 [![Email](https://img.shields.io/badge/Email-2951256653@qq.com-blue?style=social)](mailto:2951256653@qq.com)
 [![CSDN](https://img.shields.io/badge/CSDN-小康2022-red?style=social)](https://xiaokang2022.blog.csdn.net)
 ![QQ](https://img.shields.io/badge/QQ-2951256653-green?style=social)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xiaokang2022)
