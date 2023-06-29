@@ -1,5 +1,8 @@
-![](https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&layout=compact&hide_border=false&theme=transparent&show_icons=true)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&include_all_commits=true&rank_icon=github)  
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&layout=compact&theme=transparent&custom_title=Coding%20Stats)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&layout=compact&hide_border=false&theme=transparent&show_icons=true)  
 
 ---
 
@@ -42,3 +45,5 @@
 ![QQ](https://img.shields.io/badge/QQ-2951256653-green?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Xiaokang2022)
+
+</div>
