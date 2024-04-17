@@ -9,16 +9,15 @@
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&hide_border=true&bg_color=transparent&area=true&height=500&title_color=8B949E&color=8B949E&point=FFFFFF&line=26A641&area_color=26A641">
-<p align="center">
-<img align="center" width="415" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&layout=compact&theme=transparent&custom_title=Coding%20Stats" />
-<img align="center" width="385" src="https://api.githubtrends.io/user/svg/Xiaokang2022/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
-</p>
+<img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&layout=compact&hide_border=true&langs_count=20" />
+<img align="center" width="300" src="https://api.githubtrends.io/user/svg/Xiaokang2022/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" />
 </p>
 
 <p align="center">
-<a href="mailto:2951256653@qq.com"><img src="https://img.shields.io/badge/Email-2951256653@qq.com-yellow" /></a>
-<a href="https://xiaokang2022.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-小康2022-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green" />
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022" />
+<a href="mailto:2951256653@qq.com"><img src="https://img.shields.io/badge/Email-2951256653@qq.com-yellow?logo=mail" /></a>
+<a href="https://xiaokang2022.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-小康2022-red?logo=csdn" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康—2022-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=qq" />
+<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&logo=github" />
 </p>
