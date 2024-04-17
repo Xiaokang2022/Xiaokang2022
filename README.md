@@ -11,7 +11,7 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&layout=compact&hide_border=true&langs_count=20" />
-<img align="center" width="300" src="https://api.githubtrends.io/user/svg/Xiaokang2022/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" />
+<img align="center" width="300" src="https://api.githubtrends.io/user/svg/Xiaokang2022/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=ferns" />
 </p>
 
 <p align="center">
