@@ -18,9 +18,9 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&layout=compact&hide_border=true&langs_count=20" />
-<!-- https://github.com/avgupta456/github-trends -->
-<img align="center" width="300" src="https://api.githubtrends.io/user/svg/Xiaokang2022/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=ferns" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=8" />
 </p>
 
 <!-- https://github.com/tandpfun/skill-icons -->
