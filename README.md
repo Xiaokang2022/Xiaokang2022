@@ -53,8 +53,8 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=dark" />
+<!-- https://github.com/LelouchFR/skill-icons -->
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto">
 </p>
 
 <!-- https://github.com/badges/shields -->
