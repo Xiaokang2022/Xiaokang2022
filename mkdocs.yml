@@ -1,16 +1,16 @@
 site_name: 小康2022 # 站点名称
-site_url: https://Xiaokang2022.github.io/ # 站点链接
+site_url: https://Xiaokang2022.github.io/Xiaokang2022/ # 站点链接
 repo_url: https://github.com/Xiaokang2022/Xiaokang2022 # 仓库地址
 repo_name: Xiaokang2022/Xiaokang2022 # 仓库名称
-edit_uri: edit/docs/docs # 编辑地址
+edit_uri: edit/docs/raw # 编辑地址
 edit_uri_template: null # 编辑地址模板（默认值）
 site_description: 小康2022的笔记本 # 站点描述
 site_author: 小康2022 # 站点作者
 copyright: <a href="#__consent">修改 Cookie 设置</a><br/>Copyright &copy; 2024 小康2022 # 版权信息和 Cookie 设置
 # remote_branch: gh-pages # GitHub Pages 远程分支名称（默认值）
 # remote_name: origin # 远程名称（默认值）
-docs_dir: docs # 文档目录（默认值）
-site_dir: site # 网站目录（默认值）
+docs_dir: source # 文档目录（默认值）
+site_dir: docs # 网站目录（默认值）
 dev_addr: 127.0.0.1:8000 # 预览模式地址（默认值）
 use_directory_urls: true # URL 使用目录名还是文件名（默认值）
 strict: false # 警告级别（默认值），出现警告就终止程序
