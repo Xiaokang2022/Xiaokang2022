@@ -273,4 +273,6 @@ watch:
   - overrides/
 
 nav:
-  - 个人简介: index.md
+  - 主页:
+      - 个人简介: index.md
+      - 开源许可: LICENSE.md
