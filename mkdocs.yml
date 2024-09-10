@@ -4,7 +4,7 @@ repo_url: https://github.com/Xiaokang2022/Xiaokang2022 # 仓库地址
 repo_name: Xiaokang2022/Xiaokang2022 # 仓库名称
 edit_uri: edit/docs/source # 编辑地址
 edit_uri_template: null # 编辑地址模板（默认值）
-site_description: 小康2022的笔记本 # 站点描述
+site_description: 小康2022的个人网站 # 站点描述
 site_author: 小康2022 # 站点作者
 copyright: <a href="#__consent">修改 Cookie 设置</a><br/>Copyright &copy; 2024 小康2022 # 版权信息和 Cookie 设置
 # remote_branch: gh-pages # GitHub Pages 远程分支名称（默认值）
