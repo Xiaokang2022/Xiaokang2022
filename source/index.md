@@ -4,6 +4,8 @@ comments: true
 icon: material/home
 ---
 
+<p align="center"><a href="https://github.com/Xiaokang2022"><img src="logo.png" width="128" /></a></p>
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img width="360" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />

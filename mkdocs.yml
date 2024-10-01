@@ -171,7 +171,7 @@ theme: # 此项各个设定因主题而异
     - media: "(prefers-color-scheme: light)" # 亮色主题
       scheme: default
       primary: white
-      accent: purple
+      accent: orange
       toggle:
         icon: material/weather-sunny
         name: 明亮主题
@@ -214,7 +214,11 @@ extra: # 额外设定
       - reject
       - manage
     title: Cookie 设置
-    description: 我们使用 cookie 来识别您的重复访问和偏好，以及衡量我们文档的有效性和用户是否找到他们正在搜索的内容。<br/>在您的同意下，您将帮助我们改进我们的文档。
+    description: >-
+      我们使用 cookies 来识别您的重复访问和偏好，以及衡量我们文档的有效性和用户是否找
+      到他们正在搜索的内容。<br/>
+      在您的同意下，您将帮助我们改进我们的文档。<br/>
+      （您稍后仍可以在网页左下角重新修改 cookies 设置）
   analytics: # 谷歌统计
     provider: google
     property: G-7WVTNRQ20H
@@ -250,13 +254,15 @@ extra_javascript:
 
 extra_css:
   - css/extra.css # 加载自定义的样式
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css # 设置字体（霞鹜文楷）
+  - https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.5.0/style.css # 设置字体（霞鹜文楷）【版本不能再更高了，会导致公式字体变小】
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css # 图标字体库
 
 plugins:
   - search
   - statistics
-  - glightbox
+  - glightbox:
+      background: none
+      auto_themed: true
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
