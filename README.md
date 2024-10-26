@@ -43,7 +43,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
         <tr>
             <th>
                 <!-- https://github.com/anuraghazra/github-readme-stats -->
-                <img src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
+                <img src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
             </th>
             <th>
                 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -61,11 +61,11 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
         <tr>
             <th>
                 <!-- https://github.com/anuraghazra/github-readme-stats -->
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
             </th>
             <th>
                 <!-- https://github.com/anuraghazra/github-readme-stats -->
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
             </th>
         </tr>
     </tbody>
