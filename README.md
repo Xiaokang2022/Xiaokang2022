@@ -43,6 +43,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
         <tr>
             <th>
                 <!-- https://github.com/anuraghazra/github-readme-stats -->
+                <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
                 <img src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
             </th>
             <th>
@@ -65,7 +66,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
             </th>
             <th>
                 <!-- https://github.com/anuraghazra/github-readme-stats -->
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
             </th>
         </tr>
     </tbody>
@@ -77,6 +78,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
             </p>
             <p align="center">
                 <!-- https://github.com/ryo-ma/github-profile-trophy -->
+                <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
                 <img src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia" />
             </p>
             <p align="center">
