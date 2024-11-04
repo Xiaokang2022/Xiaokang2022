@@ -52,7 +52,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
